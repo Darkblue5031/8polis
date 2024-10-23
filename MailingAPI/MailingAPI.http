@@ -1,0 +1,6 @@
+@MailingAPI_HostAddress = http://localhost:5051
+
+GET {{MailingAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
